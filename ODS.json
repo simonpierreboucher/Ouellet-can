@@ -1,0 +1,485 @@
+{
+  "gammes": [
+    {
+      "code": "ODS",
+      "nom": "Aérotheme de plafond",
+      "modeles": [
+        {
+          "type": "ODSA - En surface",
+          "poids": "24.5 lbs (11.4 kg)",
+          "produits": [
+            {
+              "code": "ODSA02000",
+              "watts": 2000,
+              "volts": "240 (1)",
+              "prix": "682.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 11, "F": 20},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            },
+            {
+              "code": "ODSA03000",
+              "watts": 3000,
+              "volts": "240 (1)",
+              "prix": "692.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 17, "F": 30},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            },
+            {
+              "code": "ODSA04000",
+              "watts": 4000,
+              "volts": "240 (1)",
+              "prix": "707.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 23, "F": 41},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            },
+            {
+              "code": "ODSA05000",
+              "watts": 5000,
+              "volts": "240 (1)",
+              "prix": "726.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 28, "F": 51},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            },
+            {
+              "code": "ODSA0208",
+              "watts": 2000,
+              "volts": "208 (1)",
+              "prix": "773.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 11, "F": 20},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            },
+            {
+              "code": "ODSA0308",
+              "watts": 3000,
+              "volts": "208 (1)",
+              "prix": "784.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 17, "F": 30},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            },
+            {
+              "code": "ODSA0408",
+              "watts": 4000,
+              "volts": "208 (1)",
+              "prix": "801.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 23, "F": 41},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            },
+            {
+              "code": "ODSA0508",
+              "watts": 5000,
+              "volts": "208 (1)",
+              "prix": "820.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 28, "F": 51},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            },
+            {
+              "code": "ODSA03007",
+              "watts": 3000,
+              "volts": "347 (1)",
+              "prix": "1165.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 17, "F": 30},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            },
+            {
+              "code": "ODSA04007",
+              "watts": 4000,
+              "volts": "347 (1)",
+              "prix": "1182.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 23, "F": 41},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            },
+            {
+              "code": "ODSA05007",
+              "watts": 5000,
+              "volts": "347 (1)",
+              "prix": "1198.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 28, "F": 51},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            },
+            {
+              "code": "ODSA02006",
+              "watts": 2000,
+              "volts": "600 (1)",
+              "prix": "1145.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 11, "F": 20},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            },
+            {
+              "code": "ODSA03006",
+              "watts": 3000,
+              "volts": "600 (1)",
+              "prix": "1165.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 17, "F": 30},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            },
+            {
+              "code": "ODSA04006",
+              "watts": 4000,
+              "volts": "600 (1)",
+              "prix": "1182.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 23, "F": 41},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            },
+            {
+              "code": "ODSA05006",
+              "watts": 5000,
+              "volts": "600 (1)",
+              "prix": "1198.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 28, "F": 51},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            }
+          ]
+        },
+        {
+          "type": "ODSB - En surface",
+          "poids": "7.5-10kW, 34 lbs (15.5 kg)",
+          "produits": [
+            {
+              "code": "ODSB07500",
+              "watts": 7500,
+              "volts": "240 (1)",
+              "prix": "1914.00",
+              "pcm": 600,
+              "hausse_temperature": {"C": 22, "F": 39},
+              "moteur": {"HP": "1/33", "rpm": 1550}
+            },
+            {
+              "code": "ODSB10000",
+              "watts": 10000,
+              "volts": "240 (1)",
+              "prix": "2017.00",
+              "pcm": 600,
+              "hausse_temperature": {"C": 29, "F": 53},
+              "moteur": {"HP": "1/33", "rpm": 1550}
+            },
+            {
+              "code": "ODSB0750B",
+              "watts": 7500,
+              "volts": "208 (1)",
+              "prix": "1914.00",
+              "pcm": 600,
+              "hausse_temperature": {"C": 22, "F": 39},
+              "moteur": {"HP": "1/33", "rpm": 1550}
+            },
+            {
+              "code": "ODSB0990B",
+              "watts": 9900,
+              "volts": "208 (3)",
+              "prix": "2017.00",
+              "pcm": 600,
+              "hausse_temperature": {"C": 29, "F": 53},
+              "moteur": {"HP": "1/33", "rpm": 1550}
+            },
+            {
+              "code": "ODSB07507",
+              "watts": 7500,
+              "volts": "347 (1)",
+              "prix": "1914.00",
+              "pcm": 600,
+              "hausse_temperature": {"C": 22, "F": 39},
+              "moteur": {"HP": "1/33", "rpm": 1550}
+            },
+            {
+              "code": "ODSB10007",
+              "watts": 10000,
+              "volts": "347 (1)",
+              "prix": "2017.00",
+              "pcm": 600,
+              "hausse_temperature": {"C": 29, "F": 53},
+              "moteur": {"HP": "1/33", "rpm": 1550}
+            },
+            {
+              "code": "ODSB07506",
+              "watts": 7500,
+              "volts": "600 (1)",
+              "prix": "1914.00",
+              "pcm": 600,
+              "hausse_temperature": {"C": 22, "F": 39},
+              "moteur": {"HP": "1/33", "rpm": 1550}
+            },
+            {
+              "code": "ODSB10006",
+              "watts": 10000,
+              "volts": "600 (1)",
+              "prix": "2017.00",
+              "pcm": 600,
+              "hausse_temperature": {"C": 29, "F": 53},
+              "moteur": {"HP": "1/33", "rpm": 1550}
+            }
+          ]
+        },
+        {
+          "type": "ODSR - Encastré",
+          "poids": "2-5kW, 31 lbs (14.1 kg)",
+          "produits": [
+            {
+              "code": "ODSR02000",
+              "watts": 2000,
+              "volts": "240 (1)",
+              "prix": "1038.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 11, "F": 20},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            },
+            {
+              "code": "ODSR03000",
+              "watts": 3000,
+              "volts": "240 (1)",
+              "prix": "1055.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 17, "F": 30},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            },
+            {
+              "code": "ODSR04000",
+              "watts": 4000,
+              "volts": "240 (1)",
+              "prix": "1072.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 23, "F": 41},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            },
+            {
+              "code": "ODSR05000",
+              "watts": 5000,
+              "volts": "240 (1)",
+              "prix": "1093.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 28, "F": 51},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            },
+            {
+              "code": "ODSR0208B",
+              "watts": 2000,
+              "volts": "208 (1)",
+              "prix": "1122.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 11, "F": 20},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            },
+            {
+              "code": "ODSR0308B",
+              "watts": 3000,
+              "volts": "208 (1)",
+              "prix": "1139.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 17, "F": 30},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            },
+            {
+              "code": "ODSR0408B",
+              "watts": 4000,
+              "volts": "208 (1)",
+              "prix": "1158.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 23, "F": 41},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            },
+            {
+              "code": "ODSR0508B",
+              "watts": 5000,
+              "volts": "208 (1)",
+              "prix": "1180.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 28, "F": 51},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            },
+            {
+              "code": "ODSR02007",
+              "watts": 2000,
+              "volts": "347 (1)",
+              "prix": "1417.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 11, "F": 20},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            },
+            {
+              "code": "ODSR03007",
+              "watts": 3000,
+              "volts": "347 (1)",
+              "prix": "1437.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 17, "F": 30},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            },
+            {
+              "code": "ODSR04007",
+              "watts": 4000,
+              "volts": "347 (1)",
+              "prix": "1450.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 23, "F": 41},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            },
+            {
+              "code": "ODSR05007",
+              "watts": 5000,
+              "volts": "347 (1)",
+              "prix": "1472.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 28, "F": 51},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            },
+            {
+              "code": "ODSR02006",
+              "watts": 2000,
+              "volts": "600 (1)",
+              "prix": "1417.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 11, "F": 20},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            },
+            {
+              "code": "ODSR03006",
+              "watts": 3000,
+              "volts": "600 (1)",
+              "prix": "1437.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 17, "F": 30},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            },
+            {
+              "code": "ODSR04006",
+              "watts": 4000,
+              "volts": "600 (1)",
+              "prix": "1462.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 23, "F": 41},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            },
+            {
+              "code": "ODSR05006",
+              "watts": 5000,
+              "volts": "600 (1)",
+              "prix": "1472.00",
+              "pcm": 310,
+              "hausse_temperature": {"C": 28, "F": 51},
+              "moteur": {"HP": "1/50", "rpm": 1550}
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "code": "120",
+          "description": "Circuit de commande 120V",
+          "prix": "144.00"
+        },
+        {
+          "code": "CV",
+          "description": "Interrupteur de ventilateur et lumière témoin",
+          "prix": "16.00"
+        },
+        {
+          "code": "DIS20",
+          "kit": "KIT-ODS-DIS20",
+          "description": "Interrupteur principal tripolaire, 20A à 277V et moins",
+          "prix": "162.00"
+        },
+        {
+          "code": "DIS60",
+          "kit": "KIT-ODS-DIS60",
+          "description": "Interrupteur principal, tripolaire, 40A à 600V max.",
+          "prix": "190.00"
+        },
+        {
+          "code": "DIS80",
+          "description": "Interrupteur principal, tripolaire, 80A à 600V max.",
+          "prix": "232.00"
+        },
+        {
+          "code": "R",
+          "kit": "KIT-ODS-R",
+          "description": "Relais de contrôle 24V, sans transformateur",
+          "prix": "170.00"
+        },
+        {
+          "code": "RCV24",
+          "description": "Relais de ventilateur 24V, pour contrôle à distance et lumière témoin (interrupteur non inclus)",
+          "prix": "352.00"
+        },
+        {
+          "code": "RCV240",
+          "description": "Relais de ventilateur 240V, pour contrôle à distance et lumière témoin (interrupteur non inclus)",
+          "prix": "114.00"
+        },
+        {
+          "code": "RT",
+          "description": "Relais de contrôle 24V, avec transformateur",
+          "prix": "183.00"
+        },
+        {
+          "code": "T",
+          "kit": "KIT-ODS-T-AV",
+          "description": "Thermostat anti-vandale",
+          "prix": "95.00"
+        },
+        {
+          "code": "T-BAR",
+          "kit": "KIT-ODS-T-BAR",
+          "description": "Adaptateur de plafond suspendu, pour ODSA seulement",
+          "prix": "144.00"
+        },
+        {
+          "code": "T-BAR",
+          "kit": "KIT-ODSB-T-BAR",
+          "description": "Adaptateur de plafond suspendu, pour ODSB seulement",
+          "prix": "144.00"
+        }
+      ],
+      "caracteristiques": {
+        "couleur": {
+          "standards": "blanc, amande",
+          "optionnels": "argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable",
+          "note": "Couleurs sur mesure disponibles sur demande"
+        },
+        "finition": "Standard: peinture à la poudre d'époxy/polyester",
+        "tension": "208V, 240V, 277V, 347V, 480V, 600V, 1 ou 3 phases",
+        "construction": [
+          "Grilles de sortie d'air fait de lamelles d'aluminium entrecroisées: 1",
+          "Protection thermique à réenclenchement automatique: 2"
+        ],
+        "ventilateur": [
+          "Moteur fermé lubrifié à vie",
+          "Dispositif éliminant la chaleur résiduelle: 3"
+        ],
+        "element": [
+          "Trois éléments tubulaires résistants en acier inoxydable recouverts d'ailettes d'aluminium: 5"
+        ],
+        "regulation": [
+          "Circuit de commande à 240/208V standard (à l'exception des appareils de 2 à 5kW à 277V qui ont un contrôle standard à 277V)",
+          "Contacteur 240V intégré pour certain modèles (voir tableau)",
+          "Circuit de commande à 24V et 120V en option",
+          "Thermostat intégré anti-vandale en option",
+          "Relais 24V en option avec ou sans transformateur",
+          "Mode + circulation continue + contrôlé par un interrupteur intégré et mode « chauffage » en fonction confirmé par un témoin lumineux en option (CV)"
+        ],
+        "installation": [
+          "Hauteur recommandée: entre 8 pi (2,4 m) et 12 pi (3,6 m)",
+          "Encastré dans un plafond suspendu ou isolé (ODSR)",
+          "Installation en surface (ODSA et ODSB), adaptateur T-BAR en option"
+        ],
+        "garantie": [
+          "3 ans contre tous vices",
+          "10 ans sur les éléments"
+        ],
+        "application": "Immeuble d'appartements, édifice commercial, cage d'escalier, garage"
+      }
+    }
+  ]
+}
