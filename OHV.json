@@ -1,0 +1,523 @@
+{
+  "gammes": [
+    {
+      "code": "OHV",
+      "nom": "Aérotheme commercial",
+      "produits": [
+        {
+          "code": "OHV0208AM",
+          "kw": 2.0,
+          "volts": "208 (1)",
+          "prix": "1352.00",
+          "btu_hr": 6824,
+          "pcm": 310,
+          "hausse_temperature": {"C": 11, "F": 20},
+          "moteur": {"HP": "1/50", "rpm": 1490}
+        },
+        {
+          "code": "OHV0203BAM",
+          "kw": 2.5,
+          "volts": "208 (3)",
+          "prix": "1352.00",
+          "btu_hr": 6824,
+          "pcm": 310,
+          "hausse_temperature": {"C": 11, "F": 20},
+          "moteur": {"HP": "1/50", "rpm": 1490}
+        },
+        {
+          "code": "OHV0308AM",
+          "kw": 3.0,
+          "volts": "208 (1)",
+          "prix": "1352.00",
+          "btu_hr": 10236,
+          "pcm": 310,
+          "hausse_temperature": {"C": 17, "F": 31},
+          "moteur": {"HP": "1/50", "rpm": 1490}
+        },
+        {
+          "code": "OHV0303BAM",
+          "kw": 3.0,
+          "volts": "208 (3)",
+          "prix": "1352.00",
+          "btu_hr": 10236,
+          "pcm": 310,
+          "hausse_temperature": {"C": 17, "F": 31},
+          "moteur": {"HP": "1/50", "rpm": 1490}
+        },
+        {
+          "code": "OHV0508AM",
+          "kw": 5.0,
+          "volts": "208 (1)",
+          "prix": "1601.00",
+          "btu_hr": 17060,
+          "pcm": 310,
+          "hausse_temperature": {"C": 28, "F": 50},
+          "moteur": {"HP": "1/50", "rpm": 1490}
+        },
+        {
+          "code": "OHV0503BAM",
+          "kw": 5.0,
+          "volts": "208 (3)",
+          "prix": "1601.00",
+          "btu_hr": 17060,
+          "pcm": 310,
+          "hausse_temperature": {"C": 28, "F": 50},
+          "moteur": {"HP": "1/50", "rpm": 1490}
+        },
+        {
+          "code": "OHV0758AM",
+          "kw": 7.5,
+          "volts": "208 (1)",
+          "prix": "2308.00",
+          "btu_hr": 25590,
+          "pcm": 600,
+          "hausse_temperature": {"C": 22, "F": 40},
+          "moteur": {"HP": "1/33", "rpm": 1490}
+        },
+        {
+          "code": "OHV0753BAM",
+          "kw": 7.5,
+          "volts": "208 (3)",
+          "prix": "2308.00",
+          "btu_hr": 25590,
+          "pcm": 600,
+          "hausse_temperature": {"C": 22, "F": 40},
+          "moteur": {"HP": "1/33", "rpm": 1490}
+        },
+        {
+          "code": "OHV1008AM",
+          "kw": 10.0,
+          "volts": "208 (1)",
+          "prix": "2432.00",
+          "btu_hr": 34120,
+          "pcm": 600,
+          "hausse_temperature": {"C": 29, "F": 52},
+          "moteur": {"HP": "1/33", "rpm": 1490}
+        },
+        {
+          "code": "OHV1003BAM",
+          "kw": 10.0,
+          "volts": "208 (3)",
+          "prix": "2432.00",
+          "btu_hr": 34120,
+          "pcm": 600,
+          "hausse_temperature": {"C": 29, "F": 52},
+          "moteur": {"HP": "1/33", "rpm": 1490}
+        },
+        {
+          "code": "OHV1503BAM",
+          "kw": 15.0,
+          "volts": "208 (3)",
+          "prix": "3116.00",
+          "btu_hr": 51180,
+          "pcm": 915,
+          "hausse_temperature": {"C": 29, "F": 52},
+          "moteur": {"HP": "1/8", "rpm": 1490}
+        },
+        {
+          "code": "OHV2003BAM",
+          "kw": 20.0,
+          "volts": "208 (3)",
+          "prix": "3647.00",
+          "btu_hr": 68240,
+          "pcm": 1250,
+          "hausse_temperature": {"C": 28, "F": 50},
+          "moteur": {"HP": "1/8", "rpm": 1490}
+        },
+        {
+          "code": "OHV0200AM",
+          "kw": 2.0/1.5,
+          "volts": "240/208 (1)",
+          "prix": "1352.00",
+          "btu_hr": "6824/5118",
+          "pcm": 310,
+          "hausse_temperature": {"C": 11, "F": 20},
+          "moteur": {"HP": "1/50", "rpm": 1550}
+        },
+        {
+          "code": "OHV0300AM",
+          "kw": 3.0/2.3,
+          "volts": "240/208 (1/3)",
+          "prix": "1352.00",
+          "btu_hr": "10236/7784",
+          "pcm": 310,
+          "hausse_temperature": {"C": 17, "F": 31},
+          "moteur": {"HP": "1/50", "rpm": 1550}
+        },
+        {
+          "code": "OHV0500AM",
+          "kw": 5.0/3.75,
+          "volts": "240/208 (1/3)",
+          "prix": "1601.00",
+          "btu_hr": "17060/12966",
+          "pcm": 310,
+          "hausse_temperature": {"C": 28, "F": 50},
+          "moteur": {"HP": "1/50", "rpm": 1550}
+        },
+        {
+          "code": "OHV0750AM",
+          "kw": 7.5/5.6,
+          "volts": "240/208 (1/3)",
+          "prix": "2308.00",
+          "btu_hr": "25590/19290",
+          "pcm": 625,
+          "hausse_temperature": {"C": 21, "F": 38},
+          "moteur": {"HP": "1/33", "rpm": 1550}
+        },
+        {
+          "code": "OHV1000AM",
+          "kw": 10.0/7.5,
+          "volts": "240/208 (1/3)",
+          "prix": "2432.00",
+          "btu_hr": "34120/25590",
+          "pcm": 625,
+          "hausse_temperature": {"C": 28, "F": 50},
+          "moteur": {"HP": "1/33", "rpm": 1550}
+        },
+        {
+          "code": "OHV1503AM",
+          "kw": 15.0/11.3,
+          "volts": "240/208 (3)",
+          "prix": "3116.00",
+          "btu_hr": "51180/38307",
+          "pcm": 950,
+          "hausse_temperature": {"C": 28, "F": 50},
+          "moteur": {"HP": "1/8", "rpm": 1550}
+        },
+        {
+          "code": "OHV2003AM",
+          "kw": 20.0/15.0,
+          "volts": "240/208 (3)",
+          "prix": "3647.00",
+          "btu_hr": "68240/51180",
+          "pcm": 1300,
+          "hausse_temperature": {"C": 27, "F": 49},
+          "moteur": {"HP": "1/8", "rpm": 1550}
+        },
+        {
+          "code": "OHV0207AM",
+          "kw": 2.0,
+          "volts": "347 (1)",
+          "prix": "1685.00",
+          "btu_hr": 6824,
+          "pcm": 310,
+          "hausse_temperature": {"C": 11, "F": 20},
+          "moteur": {"HP": "1/50", "rpm": 1550}
+        },
+        {
+          "code": "OHV0307AM",
+          "kw": 3.0,
+          "volts": "347 (1)",
+          "prix": "1685.00",
+          "btu_hr": 10236,
+          "pcm": 310,
+          "hausse_temperature": {"C": 17, "F": 31},
+          "moteur": {"HP": "1/50", "rpm": 1550}
+        },
+        {
+          "code": "OHV0507AM",
+          "kw": 5.0,
+          "volts": "347 (1)",
+          "prix": "1787.00",
+          "btu_hr": 17060,
+          "pcm": 310,
+          "hausse_temperature": {"C": 28, "F": 50},
+          "moteur": {"HP": "1/50", "rpm": 1550}
+        },
+        {
+          "code": "OHV0757AM",
+          "kw": 7.5,
+          "volts": "347 (1)",
+          "prix": "2608.00",
+          "btu_hr": 25590,
+          "pcm": 625,
+          "hausse_temperature": {"C": 21, "F": 38},
+          "moteur": {"HP": "1/33", "rpm": 1550}
+        },
+        {
+          "code": "OHV1007AM",
+          "kw": 10.0,
+          "volts": "347 (1)",
+          "prix": "2651.00",
+          "btu_hr": 34120,
+          "pcm": 625,
+          "hausse_temperature": {"C": 28, "F": 50},
+          "moteur": {"HP": "1/33", "rpm": 1550}
+        },
+        {
+          "code": "OHV0206AM",
+          "kw": 2.0,
+          "volts": "600 (1)",
+          "prix": "1685.00",
+          "btu_hr": 6824,
+          "pcm": 310,
+          "hausse_temperature": {"C": 11, "F": 20},
+          "moteur": {"HP": "1/50", "rpm": 1550}
+        },
+        {
+          "code": "OHV0203AM",
+          "kw": 2.0,
+          "volts": "600 (3)",
+          "prix": "1685.00",
+          "btu_hr": 6824,
+          "pcm": 310,
+          "hausse_temperature": {"C": 11, "F": 20},
+          "moteur": {"HP": "1/50", "rpm": 1550}
+        },
+        {
+          "code": "OHV0306AM",
+          "kw": 3.0,
+          "volts": "600 (1)",
+          "prix": "1685.00",
+          "btu_hr": 10236,
+          "pcm": 310,
+          "hausse_temperature": {"C": 17, "F": 31},
+          "moteur": {"HP": "1/50", "rpm": 1550}
+        },
+        {
+          "code": "OHV0303AM",
+          "kw": 3.0,
+          "volts": "600 (3)",
+          "prix": "1685.00",
+          "btu_hr": 10236,
+          "pcm": 310,
+          "hausse_temperature": {"C": 17, "F": 31},
+          "moteur": {"HP": "1/50", "rpm": 1550}
+        },
+        {
+          "code": "OHV0506AM",
+          "kw": 5.0,
+          "volts": "600 (1)",
+          "prix": "1787.00",
+          "btu_hr": 17060,
+          "pcm": 310,
+          "hausse_temperature": {"C": 28, "F": 50},
+          "moteur": {"HP": "1/50", "rpm": 1550}
+        },
+        {
+          "code": "OHV0503AM",
+          "kw": 5.0,
+          "volts": "600 (3)",
+          "prix": "1787.00",
+          "btu_hr": 17060,
+          "pcm": 310,
+          "hausse_temperature": {"C": 28, "F": 50},
+          "moteur": {"HP": "1/50", "rpm": 1550}
+        },
+        {
+          "code": "OHV0756AM",
+          "kw": 7.5,
+          "volts": "600 (1)",
+          "prix": "2608.00",
+          "btu_hr": 25590,
+          "pcm": 625,
+          "hausse_temperature": {"C": 21, "F": 38},
+          "moteur": {"HP": "1/33", "rpm": 1550}
+        },
+        {
+          "code": "OHV0753AM",
+          "kw": 7.5,
+          "volts": "600 (3)",
+          "prix": "2608.00",
+          "btu_hr": 25590,
+          "pcm": 625,
+          "hausse_temperature": {"C": 21, "F": 38},
+          "moteur": {"HP": "1/33", "rpm": 1550}
+        },
+        {
+          "code": "OHV1003AM",
+          "kw": 10.0,
+          "volts": "600 (3)",
+          "prix": "2651.00",
+          "btu_hr": 34120,
+          "pcm": 625,
+          "hausse_temperature": {"C": 28, "F": 50},
+          "moteur": {"HP": "1/33", "rpm": 1550}
+        },
+        {
+          "code": "OHV1503AM",
+          "kw": 15.0,
+          "volts": "600 (1)",
+          "prix": "3116.00",
+          "btu_hr": 51180,
+          "pcm": 950,
+          "hausse_temperature": {"C": 28, "F": 50},
+          "moteur": {"HP": "1/8", "rpm": 1550}
+        },
+        {
+          "code": "OHV2003AM",
+          "kw": 20.0,
+          "volts": "600 (3)",
+          "prix": "3647.00",
+          "btu_hr": 68240,
+          "pcm": 1300,
+          "hausse_temperature": {"C": 27, "F": 49},
+          "moteur": {"HP": "1/8", "rpm": 1550}
+        }
+      ],
+      "dimensions": {
+        "2-5kW": {
+          "A": {"mm": 415, "po": "16 3/8"},
+          "B": {"mm": 231, "po": "9 1/8"},
+          "C": {"mm": 231, "po": "9 1/8"},
+          "D": {"mm": 244, "po": "9 5/8"},
+          "E": {"mm": 373, "po": "14 11/16"},
+          "F": {"mm": 152, "po": "6"},
+          "Poids": {"kg": 18, "lb": 40}
+        },
+        "7.5-10kW": {
+          "A": {"mm": 522, "po": "20 1/2"},
+          "B": {"mm": 276, "po": "10 7/8"},
+          "C": {"mm": 276, "po": "10 7/8"},
+          "D": {"mm": 357, "po": "14 1/8"},
+          "E": {"mm": 507, "po": "19 15/16"},
+          "F": {"mm": 254, "po": "10"},
+          "Poids": {"kg": 30, "lb": 65}
+        },
+        "15-20kW": {
+          "A": {"mm": 629, "po": "24 3/4"},
+          "B": {"mm": 412, "po": "16 1/4"},
+          "C": {"mm": 412, "po": "16 1/4"},
+          "D": {"mm": 299, "po": "11 3/4"},
+          "E": {"mm": 556, "po": "21 7/8"},
+          "F": {"mm": 152, "po": "6"},
+          "Poids": {"kg": 43, "lb": 90}
+        }
+      },
+      "options": [
+        {
+          "code": "120",
+          "description": "Circuit de commande 120V",
+          "prix": "182.00"
+        },
+        {
+          "code": "24",
+          "description": "Circuit de commande 24V",
+          "prix": "179.00"
+        },
+        {
+          "code": "3P",
+          "description": "Contacteur 3 pôles",
+          "prix": "86.00"
+        },
+        {
+          "code": "D4",
+          "kit": "KIT-OHV-D4",
+          "description": "Interrupteur 3 pôles, 40A",
+          "prix": "195.00"
+        },
+        {
+          "code": "D8",
+          "kit": "KIT-OHV-D8",
+          "description": "Interrupteur 3 pôles, 80A",
+          "prix": "239.00"
+        },
+        {
+          "code": "F1",
+          "kit": "KIT-OHV-F1",
+          "description": "Interrupteur de ventilateur en continu, unités de 2 à 5kW",
+          "prix": "82.00"
+        },
+        {
+          "code": "F2",
+          "kit": "KIT-OHV-F2",
+          "description": "Interrupteur de ventilateur en continu, avec relais, pour des unités avec un circuit de commande 24V",
+          "prix": "116.00"
+        },
+        {
+          "code": "F3",
+          "kit": "KIT-OHV-F3",
+          "description": "Interrupteur de ventilateur en continu, unités de moins de 480V (7.5 à 20kW)",
+          "prix": "82.00"
+        },
+        {
+          "code": "F4",
+          "kit": "KIT-OHV-F4",
+          "description": "Interrupteur de ventilateur en continu, unités de 480V et plus (7.5 à 20kW)",
+          "prix": "116.00"
+        },
+        {
+          "code": "FR",
+          "kit": "KIT-OHV-FR",
+          "description": "Relais de ventilateur pour contrôle à distance des unités avec un circuit de commande 24V (interrupteur de ventilateur multi non inclus)",
+          "prix": "82.00"
+        },
+        {
+          "code": "FUS",
+          "description": "Dispositif de protection contre les surtensions",
+          "prix": "299.00"
+        },
+        {
+          "code": "HL",
+          "description": "Interrupteur Hi/Lo (15 à 20kW)",
+          "prix": "328.00"
+        },
+        {
+          "code": "R",
+          "kit": "KIT-OHV-R",
+          "description": "Relais 24V, sans transformateur",
+          "prix": "179.00"
+        },
+        {
+          "code": "RT",
+          "kit": "KIT-OHV-RT",
+          "description": "Relais 24V, avec transformateur",
+          "prix": "189.00"
+        },
+        {
+          "code": "T25",
+          "kit": "KIT-OHV-T25",
+          "description": "Thermostat à 2 étages (15 à 20kW)",
+          "prix": "163.00"
+        },
+        {
+          "code": "T5",
+          "kit": "KIT-OHV-T5",
+          "description": "Thermostat à un étage, unités de 10kW inclusivement et moins",
+          "prix": "140.00"
+        },
+        {
+          "code": "T6",
+          "kit": "KIT-OHV-T6",
+          "description": "Thermostat à un étage, unités de plus de 10kW",
+          "prix": "163.00"
+        }
+      ],
+      "caracteristiques": {
+        "couleur": "Standard : amande",
+        "finition": "Standard : peinture à la poudre d'époxy/polyester",
+        "tension": "208V, 240V, 277V, 347V, 480V et 600V, 1 ou 3 phases",
+        "construction": [
+          "Conception qui permet un meilleur contrôle de la température de sortie: 1",
+          "Un diffuseur permet d'obtenir une vitesse maximale de l'écoulement d'air: 2",
+          "Volets individuels ajustables afin de diriger l'écoulement d'air chaud: 3",
+          "Protection thermique à réenclenchement automatique",
+          "Construction en acier de calibres 18 et 20"
+        ],
+        "ventilateur": [
+          "Moteur fermé – thermiquement protégé: 4",
+          "Moteur installé dans un environnement à température ambiante, protégé de la chaleur des éléments: 5",
+          "Dispositif éliminant la chaleur résiduelle assurant une plus grande durée de vie de l'équipement"
+        ],
+        "element": [
+          "Gaine en acier inoxydable recouvert d'ailettes en aluminium",
+          "Conçu pour un meilleur transfert de chaleur"
+        ],
+        "regulation": [
+          "Contacteur intégré standard installé en usine",
+          "Circuit de commande à 240/208V standard (avec transformateur si nécessaire)",
+          "Gamme complète d'options de contrôle disponibles (installation en usine ou sur place)"
+        ],
+        "installation": [
+          "Hauteur minimale de montage de 8 pi (2,4 m)",
+          "Écoulement du débit d'air horizontal ou vertical",
+          "Supports de fixation inclus permettant la pose au mur et au plafond (pour seulement de l'air horizontal)",
+          "L'appareil est muni de 4 écrous soudés (pour tige filetée 3/8 po X 16 UNC) au-dessus de l'appareil pour permettre le montage au plafond (écoulement vertical)",
+          "Vaste compartiment des commandes facile d'accès"
+        ],
+        "garantie": "5 ans contre tous vices",
+        "application": "Usine, entrepôt, garage, magasin, salle d'expédition"
+      }
+    }
+  ]
+}
