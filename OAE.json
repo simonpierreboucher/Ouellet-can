@@ -1,0 +1,67 @@
+{
+  "gammes": [
+    {
+      "code": "OAE",
+      "nom": "Aérotheme économique",
+      "produits": [
+        {
+          "code": "OAE2000AM-EO-T86",
+          "watts": "2000/1500",
+          "volts": "240/208",
+          "btu_hr": "6824/5118",
+          "type_element": "Ouvert",
+          "poids_kg": "9.1",
+          "prix": "644.00"
+        },
+        {
+          "code": "OAE3000AM-EO-T86",
+          "watts": "3000/2250",
+          "volts": "240/208",
+          "btu_hr": "10236/7677",
+          "type_element": "Ouvert",
+          "poids_kg": "9.1",
+          "prix": "649.00"
+        },
+        {
+          "code": "OAE5000AM-EO-T86",
+          "watts": "5000/3750",
+          "volts": "240/208",
+          "btu_hr": "17060/12795",
+          "type_element": "Ouvert",
+          "poids_kg": "9.1",
+          "prix": "682.00"
+        }
+      ],
+      "caracteristiques": {
+        "couleur": "Standard: amande",
+        "finition": "Standard: peinture à la poudre d'époxy/polyester",
+        "tension": "240/208V, 1 phase",
+        "construction": [
+          "Construction en acier de calibre 20",
+          "Déflecteurs ajustables pour diriger l'air: 1",
+          "Protection thermique à réenclenchement automatique: 2"
+        ],
+        "ventilation": [
+          "Ventilateur de 300 pcm (51 dBA)",
+          "Moteur fermé lubrifié à vie: 1"
+        ],
+        "element": [
+          "Fil hélicoïdal en alliage nickel-chrome protégé par des isolateurs en céramique: 1",
+          "Élément produisant une chaleur instantanée"
+        ],
+        "regulation": "Thermostat intégré inclus",
+        "installation": [
+          "Supports de fixation inclus permettant la pose au mur et au plafond",
+          "Les supports permettent de faire pivoter l'appareil sur 360° et l'empêchent de basculer"
+        ],
+        "garantie": "3 ans contre tous vices",
+        "application": "Garage, atelier"
+      },
+      "dimensions": {
+        "largeur": "307 mm (12 1/16\")",
+        "hauteur": "314 mm (12 3/8\")",
+        "profondeur": "266 mm (10 7/16\")"
+      }
+    }
+  ]
+}
